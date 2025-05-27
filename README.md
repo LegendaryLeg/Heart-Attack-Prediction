@@ -61,3 +61,7 @@ Step 4: Add Visualizations
       - Slicer – to filter by gender, age, etc.
       - Scatter/Area Chart – for trends and patterns
 2. Drag relevant fields into the "Values", "Axis", or "Legend" areas
+
+Collaborators:
+1. Begimai Alisherova - begima.a.13@gmail.com 
+2. Raiyan Mokhammad - raiyan.mokhd@gmail.com 
