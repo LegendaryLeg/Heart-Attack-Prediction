@@ -1,5 +1,5 @@
 # Heart-Attack-Prediction
-Implementation of a Machine Learning Model for Predicting Heart Attacks. The model is then imported in Power BI with related graphs and statistical data. 
+Heart disease, particularly heart attacks, is one of the leading causes of death globally. Our objective is to develop a predictive model that identifies individuals at risk based on demographic, lifestyle, and medical factors. The results are then visualized in Power BI for easy interpretation and actionable insight.
 
 # Table of Contents
 - Project Overview
@@ -55,9 +55,9 @@ Step 3: Add Machine Learning Model
 
 Step 4: Add Visualizations
 1. Use the Visualizations pane to insert visuals:
-- Pie Chart – for class distribution
-- Stacked Column Chart – for comparing feature categories vs. risk
-- Filled Map – for geographic analysis
-- Slicer – to filter by gender, age, etc.
-- Scatter/Area Chart – for trends and patterns
+      - Pie Chart – for class distribution
+      - Stacked Column Chart – for comparing feature categories vs. risk
+      - Filled Map – for geographic analysis
+      - Slicer – to filter by gender, age, etc.
+      - Scatter/Area Chart – for trends and patterns
 2. Drag relevant fields into the "Values", "Axis", or "Legend" areas
